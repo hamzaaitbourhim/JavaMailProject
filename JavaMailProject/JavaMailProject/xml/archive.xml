@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archive>
+  <ArchivedEmail id="0">
+    <from>javamailprojectest@gmail.com</from>
+    <to>hmzabourhim@gmail.com, javamailprojectest@gmail.com</to>
+    <date>2022/06/08 20:04:12</date>
+    <subject>test1</subject>
+    <body>this is my password : kmsmglbtgtiwjhzi</body>
+  </ArchivedEmail>
+  <ArchivedEmail id="1">
+    <from>javamailprojectest@gmail.com</from>
+    <to>hmzabourhim@gmail.com, javamailprojectest@gmail.com</to>
+    <date>2022/06/08 20:16:11</date>
+    <subject>test2</subject>
+    <body>what's your password?</body>
+  </ArchivedEmail>
+  <ArchivedEmail id="2">
+    <from>javamailprojectest@gmail.com</from>
+    <to>javamailprojectest@gmail.com</to>
+    <date>2022/06/09 11:43:36</date>
+    <subject>test</subject>
+    <body>test hdshv
+dhvj d 
+hvdui iud</body>
+  </ArchivedEmail>
+  <ArchivedEmail id="3">
+    <from>javamailprojectest@gmail.com</from>
+    <to>soufiane.lachguer.17@gmail.com</to>
+    <date>2022/06/10 11:32:35</date>
+    <subject>test</subject>
+    <body>bsqcbsd
+hinvcjkvnds
+hisndvjk nld
+bien cordialement.</body>
+  </ArchivedEmail>
+</archive>
+
